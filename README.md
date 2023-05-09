@@ -12,7 +12,11 @@ A workshop on folding at the Master Media Design, HEAD – Genève
 - [Marine & Michelle](https://github.com/michelle-po/folding-worlds)
 - [Louka & Nathan](https://github.com/zweifelna/head-md-folding-worlds)
 - [Camilo & Hanieh](https://github.com/haniehrashid/head-md-folding-worlds)
-- ...
+- [Mariia & Narges](https://)
+- [Amaury & Tomi](https://)
+- [Faustine & Tibor](https://)
+- [Dorian & Margot](https://)
+- [Elie & Huiwen](https://)
 
 ## Brief
 This project is about scanning the physical world, and creating possible interactions with that world inside of virtual reality. In this project you will build a physical maquette and/or object that you will scan and import into an Oculus VR headset using the Unity game engine. The goal is to create simple and poetic interactions with this world. Interactions are hand and gaze only, no controllers allowed. Repeat: no controllers allowed. The idea is to find simple interactions using hand gestures that fold and unfold the story of your object and/or world. The sound of these interactions will be an important component to your project. Your sounds should be — think ASMR — physically felt, although immaterial.
