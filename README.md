@@ -15,7 +15,7 @@ A workshop on folding at the Master Media Design, HEAD – Genève
 - [Mariia & Narges](https://github.com/MariiaGulkova/head-md-folding-worlds-/tree/main)
 - [Amaury & Tomislav](https://github.com/AmauryHamon/head-md-folding-worlds)
 - [Faustine & Tibor](https://)
-- [Dorian & Margot](https://)
+- [Dorian & Margot](https://github.com/DorianJov/head-md-folding-worlds)
 - [Elie & Huiwen](https://github.com/huiwenzang/head-md-folding-worlds)
 
 ## Brief
